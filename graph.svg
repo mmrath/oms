@@ -336,503 +336,471 @@
 <text text-anchor="" x="1090.00" y="24" font-size="12" font-family="Verdana" fill="rgb(0,0,0)" id="search" onmouseover="searchover()" onmouseout="searchout()" onclick="search_prompt()" style="opacity:0.1;cursor:pointer" >Search</text>
 <text text-anchor="" x="1090.00" y="357" font-size="12" font-family="Verdana" fill="rgb(0,0,0)" id="matched" > </text>
 <g class="func_g" onmouseover="s(this)" onmouseout="c()" onclick="zoom(this)">
-<title>oms`oms::order_book::OrderBook::event::h00deb3f03db6eb02 (1 samples, 0.05%)</title><rect x="1189.4" y="197" width="0.6" height="15.0" fill="rgb(214,37,3)" rx="2" ry="2" />
-<text text-anchor="" x="1192.43" y="207.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  ></text>
+<title>oms`je_chunk_dalloc_wrapper (35 samples, 1.74%)</title><rect x="136.0" y="101" width="20.5" height="15.0" fill="rgb(225,80,27)" rx="2" ry="2" />
+<text text-anchor="" x="138.97" y="111.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  ></text>
 </g>
 <g class="func_g" onmouseover="s(this)" onmouseout="c()" onclick="zoom(this)">
-<title>libsystem_kernel.dylib`__mmap (1 samples, 0.05%)</title><rect x="125.4" y="69" width="0.6" height="15.0" fill="rgb(214,127,19)" rx="2" ry="2" />
-<text text-anchor="" x="128.40" y="79.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  ></text>
+<title>oms`je_rallocx (1 samples, 0.05%)</title><rect x="97.9" y="149" width="0.6" height="15.0" fill="rgb(235,170,44)" rx="2" ry="2" />
+<text text-anchor="" x="100.88" y="159.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  ></text>
 </g>
 <g class="func_g" onmouseover="s(this)" onmouseout="c()" onclick="zoom(this)">
-<title>oms`_$LT$std..collections..hash..map..HashMap$LT$K$C$$u20$V$C$$u20$S$GT$$GT$::insert::haa20bf5bf7c3bcc3 (329 samples, 15.77%)</title><rect x="719.4" y="149" width="186.1" height="15.0" fill="rgb(220,169,4)" rx="2" ry="2" />
-<text text-anchor="" x="722.36" y="159.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  >oms`_$LT$std..collection..</text>
+<title>libsystem_pthread.dylib`pthread_getspecific (1 samples, 0.05%)</title><rect x="572.5" y="149" width="0.5" height="15.0" fill="rgb(226,118,23)" rx="2" ry="2" />
+<text text-anchor="" x="575.46" y="159.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  ></text>
 </g>
 <g class="func_g" onmouseover="s(this)" onmouseout="c()" onclick="zoom(this)">
-<title>oms`core::hash::impls::_$LT$impl$u20$core..hash..Hash$u20$for$u20$u64$GT$::hash::hd03a0e92ae4302be (1 samples, 0.05%)</title><rect x="893.0" y="133" width="0.6" height="15.0" fill="rgb(230,53,23)" rx="2" ry="2" />
-<text text-anchor="" x="896.02" y="143.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  ></text>
+<title>oms`_$LT$alloc..btree..map..Iter$LT$$u27$a$C$$u20$K$C$$u20$V$GT$$u20$as$u20$core..iter..iterator..Iterator$GT$::next::h4bdee878da158cb9 (104 samples, 5.16%)</title><rect x="37.0" y="181" width="60.9" height="15.0" fill="rgb(232,77,36)" rx="2" ry="2" />
+<text text-anchor="" x="39.95" y="191.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  >oms`_$..</text>
 </g>
 <g class="func_g" onmouseover="s(this)" onmouseout="c()" onclick="zoom(this)">
-<title>libsystem_kernel.dylib`__munmap (27 samples, 1.29%)</title><rect x="110.1" y="53" width="15.3" height="15.0" fill="rgb(215,140,3)" rx="2" ry="2" />
-<text text-anchor="" x="113.12" y="63.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  ></text>
+<title>oms`arena_bin_malloc_hard (1 samples, 0.05%)</title><rect x="437.1" y="69" width="0.6" height="15.0" fill="rgb(207,187,32)" rx="2" ry="2" />
+<text text-anchor="" x="440.12" y="79.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  ></text>
 </g>
 <g class="func_g" onmouseover="s(this)" onmouseout="c()" onclick="zoom(this)">
-<title>oms`__rde_realloc (4 samples, 0.19%)</title><rect x="411.1" y="149" width="2.2" height="15.0" fill="rgb(239,201,6)" rx="2" ry="2" />
-<text text-anchor="" x="414.06" y="159.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  ></text>
+<title>oms`_$LT$alloc..raw_vec..RawVec$LT$T$C$$u20$A$GT$$GT$::double::h80c36589fd7456e2 (48 samples, 2.38%)</title><rect x="664.4" y="149" width="28.2" height="15.0" fill="rgb(242,126,18)" rx="2" ry="2" />
+<text text-anchor="" x="667.45" y="159.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  >o..</text>
 </g>
 <g class="func_g" onmouseover="s(this)" onmouseout="c()" onclick="zoom(this)">
-<title>oms`je_chunk_dalloc_wrapper (27 samples, 1.29%)</title><rect x="110.1" y="85" width="15.3" height="15.0" fill="rgb(243,40,38)" rx="2" ry="2" />
-<text text-anchor="" x="113.12" y="95.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  ></text>
+<title>oms`je_chunk_dalloc_mmap (35 samples, 1.74%)</title><rect x="136.0" y="85" width="20.5" height="15.0" fill="rgb(233,56,7)" rx="2" ry="2" />
+<text text-anchor="" x="138.97" y="95.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  ></text>
 </g>
 <g class="func_g" onmouseover="s(this)" onmouseout="c()" onclick="zoom(this)">
-<title>oms`arena_purge_to_limit (28 samples, 1.34%)</title><rect x="110.1" y="101" width="15.9" height="15.0" fill="rgb(239,33,10)" rx="2" ry="2" />
-<text text-anchor="" x="113.12" y="111.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  ></text>
+<title>oms`oms::order_book::OrderBook::new::hf46cdc278fe4f4d7 (500 samples, 24.83%)</title><rect x="895.3" y="181" width="292.9" height="15.0" fill="rgb(250,196,43)" rx="2" ry="2" />
+<text text-anchor="" x="898.29" y="191.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  >oms`oms::order_book::OrderBook::new::hf..</text>
 </g>
 <g class="func_g" onmouseover="s(this)" onmouseout="c()" onclick="zoom(this)">
-<title>oms`alloc::btree::search::search_tree::haa5d7bc944d6f8bb (48 samples, 2.30%)</title><rect x="585.3" y="165" width="27.1" height="15.0" fill="rgb(208,14,39)" rx="2" ry="2" />
-<text text-anchor="" x="588.29" y="175.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  >o..</text>
+<title>oms`isfree (11 samples, 0.55%)</title><rect x="609.4" y="149" width="6.4" height="15.0" fill="rgb(233,78,9)" rx="2" ry="2" />
+<text text-anchor="" x="612.37" y="159.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  ></text>
 </g>
 <g class="func_g" onmouseover="s(this)" onmouseout="c()" onclick="zoom(this)">
-<title>oms`main (2,086 samples, 100.00%)</title><rect x="10.0" y="277" width="1180.0" height="15.0" fill="rgb(251,46,38)" rx="2" ry="2" />
-<text text-anchor="" x="13.00" y="287.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  >oms`main</text>
+<title>oms`oms::order_book::OrderBook::process_order_list::hc11501658e0c590d (134 samples, 6.65%)</title><rect x="616.4" y="165" width="78.5" height="15.0" fill="rgb(228,141,46)" rx="2" ry="2" />
+<text text-anchor="" x="619.41" y="175.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  >oms`oms::..</text>
 </g>
 <g class="func_g" onmouseover="s(this)" onmouseout="c()" onclick="zoom(this)">
-<title>libsystem_platform.dylib`_platform_memmove$VARIANT$Haswell (1 samples, 0.05%)</title><rect x="408.8" y="149" width="0.6" height="15.0" fill="rgb(236,90,22)" rx="2" ry="2" />
-<text text-anchor="" x="411.80" y="159.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  ></text>
+<title>oms`__rde_realloc (4 samples, 0.20%)</title><rect x="435.4" y="149" width="2.3" height="15.0" fill="rgb(222,125,6)" rx="2" ry="2" />
+<text text-anchor="" x="438.36" y="159.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  ></text>
 </g>
 <g class="func_g" onmouseover="s(this)" onmouseout="c()" onclick="zoom(this)">
-<title>oms`__rde_alloc (1 samples, 0.05%)</title><rect x="1187.2" y="133" width="0.5" height="15.0" fill="rgb(248,222,12)" rx="2" ry="2" />
-<text text-anchor="" x="1190.17" y="143.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  ></text>
+<title>oms`alloc::allocator::Layout::repeat::hb8a1c50da637e34b (3 samples, 0.15%)</title><rect x="693.2" y="149" width="1.7" height="15.0" fill="rgb(242,179,34)" rx="2" ry="2" />
+<text text-anchor="" x="696.16" y="159.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  ></text>
 </g>
 <g class="func_g" onmouseover="s(this)" onmouseout="c()" onclick="zoom(this)">
-<title>oms`je_tcache_alloc_small_hard (1 samples, 0.05%)</title><rect x="433.7" y="117" width="0.6" height="15.0" fill="rgb(222,156,48)" rx="2" ry="2" />
-<text text-anchor="" x="436.69" y="127.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  ></text>
+<title>oms`main (2,013 samples, 99.95%)</title><rect x="10.6" y="277" width="1179.4" height="15.0" fill="rgb(253,77,46)" rx="2" ry="2" />
+<text text-anchor="" x="13.59" y="287.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  >oms`main</text>
 </g>
 <g class="func_g" onmouseover="s(this)" onmouseout="c()" onclick="zoom(this)">
-<title>oms`std::collections::hash::table::make_hash::h1035a5e14f752d6a (21 samples, 1.01%)</title><rect x="893.6" y="133" width="11.9" height="15.0" fill="rgb(254,98,0)" rx="2" ry="2" />
-<text text-anchor="" x="896.59" y="143.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  ></text>
+<title>oms`std::panicking::try::do_call::hb514f7178ba0e034 (2,013 samples, 99.95%)</title><rect x="10.6" y="229" width="1179.4" height="15.0" fill="rgb(250,20,29)" rx="2" ry="2" />
+<text text-anchor="" x="13.59" y="239.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  >oms`std::panicking::try::do_call::hb514f7178ba0e034</text>
 </g>
 <g class="func_g" onmouseover="s(this)" onmouseout="c()" onclick="zoom(this)">
-<title>oms`oms::order_list::OrderList::insert::h5a535c853bbd96a2 (2 samples, 0.10%)</title><rect x="1188.3" y="181" width="1.1" height="15.0" fill="rgb(223,60,5)" rx="2" ry="2" />
-<text text-anchor="" x="1191.30" y="191.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  ></text>
+<title>oms`__rde_realloc (5 samples, 0.25%)</title><rect x="411.3" y="149" width="3.0" height="15.0" fill="rgb(241,220,33)" rx="2" ry="2" />
+<text text-anchor="" x="414.34" y="159.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  ></text>
 </g>
 <g class="func_g" onmouseover="s(this)" onmouseout="c()" onclick="zoom(this)">
-<title>oms`__rde_alloc (1 samples, 0.05%)</title><rect x="410.5" y="149" width="0.6" height="15.0" fill="rgb(219,89,40)" rx="2" ry="2" />
-<text text-anchor="" x="413.50" y="159.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  ></text>
+<title>oms`je_arena_tcache_fill_small (1 samples, 0.05%)</title><rect x="437.1" y="85" width="0.6" height="15.0" fill="rgb(242,123,51)" rx="2" ry="2" />
+<text text-anchor="" x="440.12" y="95.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  ></text>
 </g>
 <g class="func_g" onmouseover="s(this)" onmouseout="c()" onclick="zoom(this)">
-<title>oms`std::rt::lang_start::_$u7b$$u7b$closure$u7d$$u7d$::h2937ce38a878df02 (2,086 samples, 100.00%)</title><rect x="10.0" y="213" width="1180.0" height="15.0" fill="rgb(208,214,5)" rx="2" ry="2" />
-<text text-anchor="" x="13.00" y="223.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  >oms`std::rt::lang_start::_$u7b$$u7b$closure$u7d$$u7d$::h2937ce38a878df02</text>
+<title>oms`std::collections::hash::table::make_hash::h1035a5e14f752d6a (35 samples, 1.74%)</title><rect x="873.0" y="133" width="20.5" height="15.0" fill="rgb(226,34,0)" rx="2" ry="2" />
+<text text-anchor="" x="876.03" y="143.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  ></text>
 </g>
 <g class="func_g" onmouseover="s(this)" onmouseout="c()" onclick="zoom(this)">
-<title>oms`oms::order_book::OrderBook::new::hf46cdc278fe4f4d7 (498 samples, 23.87%)</title><rect x="906.6" y="181" width="281.7" height="15.0" fill="rgb(233,186,3)" rx="2" ry="2" />
-<text text-anchor="" x="909.60" y="191.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  >oms`oms::order_book::OrderBook::new::..</text>
+<title>libsystem_kernel.dylib`__mmap (2 samples, 0.10%)</title><rect x="124.8" y="69" width="1.2" height="15.0" fill="rgb(215,151,47)" rx="2" ry="2" />
+<text text-anchor="" x="127.84" y="79.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  ></text>
 </g>
 <g class="func_g" onmouseover="s(this)" onmouseout="c()" onclick="zoom(this)">
-<title>oms`_$LT$alloc..btree..map..OccupiedEntry$LT$$u27$a$C$$u20$K$C$$u20$V$GT$$GT$::remove::h7063e17766e42dbb (3 samples, 0.14%)</title><rect x="407.7" y="165" width="1.7" height="15.0" fill="rgb(211,25,27)" rx="2" ry="2" />
-<text text-anchor="" x="410.67" y="175.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  ></text>
+<title>oms`csv_core::reader::Reader::read_record::hdfaf875a74d2afee (1 samples, 0.05%)</title><rect x="101.4" y="165" width="0.6" height="15.0" fill="rgb(205,67,41)" rx="2" ry="2" />
+<text text-anchor="" x="104.40" y="175.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  ></text>
 </g>
 <g class="func_g" onmouseover="s(this)" onmouseout="c()" onclick="zoom(this)">
-<title>oms`__rde_dealloc (3 samples, 0.14%)</title><rect x="10.0" y="197" width="1.7" height="15.0" fill="rgb(254,117,25)" rx="2" ry="2" />
-<text text-anchor="" x="13.00" y="207.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  ></text>
+<title>oms`alloc::btree::search::search_tree::haa5d7bc944d6f8bb (44 samples, 2.18%)</title><rect x="575.4" y="165" width="25.8" height="15.0" fill="rgb(213,164,50)" rx="2" ry="2" />
+<text text-anchor="" x="578.39" y="175.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  >o..</text>
 </g>
 <g class="func_g" onmouseover="s(this)" onmouseout="c()" onclick="zoom(this)">
-<title>oms`oms::order_list::OrderList::insert::h5a535c853bbd96a2 (352 samples, 16.87%)</title><rect x="706.3" y="165" width="199.2" height="15.0" fill="rgb(232,149,53)" rx="2" ry="2" />
-<text text-anchor="" x="709.35" y="175.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  >oms`oms::order_list::Order..</text>
+<title>libsystem_pthread.dylib`pthread_getspecific (3 samples, 0.15%)</title><rect x="677.9" y="117" width="1.8" height="15.0" fill="rgb(226,170,13)" rx="2" ry="2" />
+<text text-anchor="" x="680.92" y="127.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  ></text>
 </g>
 <g class="func_g" onmouseover="s(this)" onmouseout="c()" onclick="zoom(this)">
-<title>all (2,086 samples, 100%)</title><rect x="10.0" y="325" width="1180.0" height="15.0" fill="rgb(236,56,6)" rx="2" ry="2" />
-<text text-anchor="" x="13.00" y="335.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  ></text>
+<title>oms`_$LT$csv..reader..DeserializeRecordsIter$LT$$u27$r$C$$u20$R$C$$u20$D$GT$$u20$as$u20$core..iter..iterator..Iterator$GT$::next::h9d872933dea890cb (6 samples, 0.30%)</title><rect x="98.5" y="181" width="3.5" height="15.0" fill="rgb(214,59,18)" rx="2" ry="2" />
+<text text-anchor="" x="101.47" y="191.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  ></text>
 </g>
 <g class="func_g" onmouseover="s(this)" onmouseout="c()" onclick="zoom(this)">
-<title>libsystem_kernel.dylib`__mmap (2 samples, 0.10%)</title><rect x="436.5" y="37" width="1.2" height="15.0" fill="rgb(231,229,3)" rx="2" ry="2" />
-<text text-anchor="" x="439.52" y="47.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  ></text>
-</g>
-<g class="func_g" onmouseover="s(this)" onmouseout="c()" onclick="zoom(this)">
-<title>libsystem_platform.dylib`_platform_memmove$VARIANT$Haswell (1 samples, 0.05%)</title><rect x="436.0" y="101" width="0.5" height="15.0" fill="rgb(207,14,14)" rx="2" ry="2" />
-<text text-anchor="" x="438.95" y="111.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  ></text>
-</g>
-<g class="func_g" onmouseover="s(this)" onmouseout="c()" onclick="zoom(this)">
-<title>libsystem_platform.dylib`_platform_memmove$VARIANT$Haswell (2 samples, 0.10%)</title><rect x="412.2" y="101" width="1.1" height="15.0" fill="rgb(237,70,53)" rx="2" ry="2" />
-<text text-anchor="" x="415.20" y="111.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  ></text>
-</g>
-<g class="func_g" onmouseover="s(this)" onmouseout="c()" onclick="zoom(this)">
-<title>oms`_$LT$alloc..btree..map..BTreeMap$LT$K$C$$u20$V$GT$$GT$::iter::h5ba08fa1630ef2d2 (39 samples, 1.87%)</title><rect x="370.9" y="165" width="22.1" height="15.0" fill="rgb(221,69,48)" rx="2" ry="2" />
-<text text-anchor="" x="373.90" y="175.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  >o..</text>
-</g>
-<g class="func_g" onmouseover="s(this)" onmouseout="c()" onclick="zoom(this)">
-<title>oms`oms::order_book::OrderBook::event::h00deb3f03db6eb02 (1,309 samples, 62.75%)</title><rect x="166.1" y="181" width="740.5" height="15.0" fill="rgb(221,201,8)" rx="2" ry="2" />
-<text text-anchor="" x="169.13" y="191.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  >oms`oms::order_book::OrderBook::event::h00deb3f03db6eb02</text>
-</g>
-<g class="func_g" onmouseover="s(this)" onmouseout="c()" onclick="zoom(this)">
-<title>libsystem_platform.dylib`_platform_memmove$VARIANT$Haswell (4 samples, 0.19%)</title><rect x="368.6" y="165" width="2.3" height="15.0" fill="rgb(243,192,7)" rx="2" ry="2" />
-<text text-anchor="" x="371.64" y="175.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  ></text>
-</g>
-<g class="func_g" onmouseover="s(this)" onmouseout="c()" onclick="zoom(this)">
-<title>oms`arena_bin_malloc_hard (2 samples, 0.10%)</title><rect x="436.5" y="69" width="1.2" height="15.0" fill="rgb(233,101,10)" rx="2" ry="2" />
-<text text-anchor="" x="439.52" y="79.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  ></text>
-</g>
-<g class="func_g" onmouseover="s(this)" onmouseout="c()" onclick="zoom(this)">
-<title>oms`je_tcache_event_hard (1 samples, 0.05%)</title><rect x="434.3" y="117" width="0.5" height="15.0" fill="rgb(228,90,31)" rx="2" ry="2" />
-<text text-anchor="" x="437.26" y="127.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  ></text>
-</g>
-<g class="func_g" onmouseover="s(this)" onmouseout="c()" onclick="zoom(this)">
-<title>oms`_$LT$std..collections..hash..map..HashMap$LT$K$C$$u20$V$C$$u20$S$GT$$GT$::remove::hc15d51697f2202a6 (253 samples, 12.13%)</title><rect x="438.8" y="165" width="143.1" height="15.0" fill="rgb(250,50,49)" rx="2" ry="2" />
-<text text-anchor="" x="441.78" y="175.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  >oms`_$LT$std..coll..</text>
-</g>
-<g class="func_g" onmouseover="s(this)" onmouseout="c()" onclick="zoom(this)">
-<title>oms`__rde_realloc (7 samples, 0.34%)</title><rect x="699.0" y="133" width="4.0" height="15.0" fill="rgb(251,203,52)" rx="2" ry="2" />
-<text text-anchor="" x="701.99" y="143.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  ></text>
-</g>
-<g class="func_g" onmouseover="s(this)" onmouseout="c()" onclick="zoom(this)">
-<title>oms`csv_core::reader::Reader::read_record::hdfaf875a74d2afee (3 samples, 0.14%)</title><rect x="105.0" y="165" width="1.7" height="15.0" fill="rgb(230,214,49)" rx="2" ry="2" />
-<text text-anchor="" x="108.03" y="175.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  ></text>
-</g>
-<g class="func_g" onmouseover="s(this)" onmouseout="c()" onclick="zoom(this)">
-<title>oms`je_mallocx (1 samples, 0.05%)</title><rect x="437.7" y="149" width="0.5" height="15.0" fill="rgb(211,82,42)" rx="2" ry="2" />
-<text text-anchor="" x="440.65" y="159.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  ></text>
-</g>
-<g class="func_g" onmouseover="s(this)" onmouseout="c()" onclick="zoom(this)">
-<title>oms`je_rallocx (4 samples, 0.19%)</title><rect x="411.1" y="133" width="2.2" height="15.0" fill="rgb(214,68,47)" rx="2" ry="2" />
-<text text-anchor="" x="414.06" y="143.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  ></text>
-</g>
-<g class="func_g" onmouseover="s(this)" onmouseout="c()" onclick="zoom(this)">
-<title>oms`alloc::btree::search::search_tree::haa5d7bc944d6f8bb (2 samples, 0.10%)</title><rect x="109.0" y="181" width="1.1" height="15.0" fill="rgb(234,44,25)" rx="2" ry="2" />
-<text text-anchor="" x="111.99" y="191.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  ></text>
-</g>
-<g class="func_g" onmouseover="s(this)" onmouseout="c()" onclick="zoom(this)">
-<title>libsystem_platform.dylib`_platform_memmove$VARIANT$Haswell (1 samples, 0.05%)</title><rect x="35.5" y="181" width="0.5" height="15.0" fill="rgb(228,229,39)" rx="2" ry="2" />
-<text text-anchor="" x="38.46" y="191.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  ></text>
-</g>
-<g class="func_g" onmouseover="s(this)" onmouseout="c()" onclick="zoom(this)">
-<title>oms`je_rallocx (5 samples, 0.24%)</title><rect x="434.8" y="133" width="2.9" height="15.0" fill="rgb(217,227,42)" rx="2" ry="2" />
-<text text-anchor="" x="437.82" y="143.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  ></text>
-</g>
-<g class="func_g" onmouseover="s(this)" onmouseout="c()" onclick="zoom(this)">
-<title>oms`std::collections::hash::table::make_hash::h1035a5e14f752d6a (2 samples, 0.10%)</title><rect x="905.5" y="165" width="1.1" height="15.0" fill="rgb(228,112,51)" rx="2" ry="2" />
-<text text-anchor="" x="908.47" y="175.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  ></text>
-</g>
-<g class="func_g" onmouseover="s(this)" onmouseout="c()" onclick="zoom(this)">
-<title>libsystem_pthread.dylib`pthread_getspecific (3 samples, 0.14%)</title><rect x="687.7" y="117" width="1.7" height="15.0" fill="rgb(237,166,52)" rx="2" ry="2" />
-<text text-anchor="" x="690.68" y="127.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  ></text>
-</g>
-<g class="func_g" onmouseover="s(this)" onmouseout="c()" onclick="zoom(this)">
-<title>oms`alloc::allocator::Layout::repeat::hb8a1c50da637e34b (4 samples, 0.19%)</title><rect x="704.1" y="149" width="2.2" height="15.0" fill="rgb(247,110,32)" rx="2" ry="2" />
-<text text-anchor="" x="707.08" y="159.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  ></text>
-</g>
-<g class="func_g" onmouseover="s(this)" onmouseout="c()" onclick="zoom(this)">
-<title>oms`DYLD-STUB$$memcpy (3 samples, 0.14%)</title><rect x="36.0" y="181" width="1.7" height="15.0" fill="rgb(207,224,31)" rx="2" ry="2" />
-<text text-anchor="" x="39.02" y="191.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  ></text>
-</g>
-<g class="func_g" onmouseover="s(this)" onmouseout="c()" onclick="zoom(this)">
-<title>oms`je_sdallocx (22 samples, 1.05%)</title><rect x="612.4" y="165" width="12.5" height="15.0" fill="rgb(208,44,12)" rx="2" ry="2" />
-<text text-anchor="" x="615.44" y="175.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  ></text>
-</g>
-<g class="func_g" onmouseover="s(this)" onmouseout="c()" onclick="zoom(this)">
-<title>oms`oms::order_book::OrderBook::process_order_list::hc11501658e0c590d (144 samples, 6.90%)</title><rect x="624.9" y="165" width="81.4" height="15.0" fill="rgb(228,54,16)" rx="2" ry="2" />
-<text text-anchor="" x="627.89" y="175.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  >oms`oms::..</text>
-</g>
-<g class="func_g" onmouseover="s(this)" onmouseout="c()" onclick="zoom(this)">
-<title>oms`_$LT$alloc..btree..map..VacantEntry$LT$$u27$a$C$$u20$K$C$$u20$V$GT$$GT$::insert::h5dd85bddda4d37e8 (3 samples, 0.14%)</title><rect x="409.4" y="165" width="1.7" height="15.0" fill="rgb(216,187,29)" rx="2" ry="2" />
-<text text-anchor="" x="412.37" y="175.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  ></text>
-</g>
-<g class="func_g" onmouseover="s(this)" onmouseout="c()" onclick="zoom(this)">
-<title>oms`__rde_alloc (1 samples, 0.05%)</title><rect x="1187.7" y="149" width="0.6" height="15.0" fill="rgb(210,46,20)" rx="2" ry="2" />
-<text text-anchor="" x="1190.74" y="159.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  ></text>
-</g>
-<g class="func_g" onmouseover="s(this)" onmouseout="c()" onclick="zoom(this)">
-<title>oms`__rde_alloc (17 samples, 0.81%)</title><rect x="425.2" y="149" width="9.6" height="15.0" fill="rgb(216,128,54)" rx="2" ry="2" />
-<text text-anchor="" x="428.21" y="159.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  ></text>
-</g>
-<g class="func_g" onmouseover="s(this)" onmouseout="c()" onclick="zoom(this)">
-<title>oms`arena_purge_to_limit (48 samples, 2.30%)</title><rect x="139.0" y="117" width="27.1" height="15.0" fill="rgb(245,173,36)" rx="2" ry="2" />
-<text text-anchor="" x="141.97" y="127.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  >o..</text>
-</g>
-<g class="func_g" onmouseover="s(this)" onmouseout="c()" onclick="zoom(this)">
-<title>oms`core::ptr::drop_in_place::h1b4986d375e21e1b (28 samples, 1.34%)</title><rect x="110.1" y="181" width="15.9" height="15.0" fill="rgb(233,100,6)" rx="2" ry="2" />
-<text text-anchor="" x="113.12" y="191.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  ></text>
-</g>
-<g class="func_g" onmouseover="s(this)" onmouseout="c()" onclick="zoom(this)">
-<title>oms`je_mallocx (1 samples, 0.05%)</title><rect x="1187.2" y="117" width="0.5" height="15.0" fill="rgb(214,10,54)" rx="2" ry="2" />
-<text text-anchor="" x="1190.17" y="127.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  ></text>
-</g>
-<g class="func_g" onmouseover="s(this)" onmouseout="c()" onclick="zoom(this)">
-<title>oms`je_sdallocx (28 samples, 1.34%)</title><rect x="110.1" y="165" width="15.9" height="15.0" fill="rgb(254,109,15)" rx="2" ry="2" />
-<text text-anchor="" x="113.12" y="175.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  ></text>
-</g>
-<g class="func_g" onmouseover="s(this)" onmouseout="c()" onclick="zoom(this)">
-<title>oms`je_arena_chunk_dalloc_huge (28 samples, 1.34%)</title><rect x="110.1" y="133" width="15.9" height="15.0" fill="rgb(230,170,27)" rx="2" ry="2" />
-<text text-anchor="" x="113.12" y="143.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  ></text>
-</g>
-<g class="func_g" onmouseover="s(this)" onmouseout="c()" onclick="zoom(this)">
-<title>oms`je_arena_ralloc (3 samples, 0.14%)</title><rect x="411.6" y="117" width="1.7" height="15.0" fill="rgb(235,71,8)" rx="2" ry="2" />
-<text text-anchor="" x="414.63" y="127.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  ></text>
-</g>
-<g class="func_g" onmouseover="s(this)" onmouseout="c()" onclick="zoom(this)">
-<title>oms`__rde_dealloc (2 samples, 0.10%)</title><rect x="107.9" y="181" width="1.1" height="15.0" fill="rgb(248,57,8)" rx="2" ry="2" />
-<text text-anchor="" x="110.86" y="191.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  ></text>
-</g>
-<g class="func_g" onmouseover="s(this)" onmouseout="c()" onclick="zoom(this)">
-<title>oms`je_arena_malloc_large (1 samples, 0.05%)</title><rect x="1187.7" y="117" width="0.6" height="15.0" fill="rgb(245,228,38)" rx="2" ry="2" />
-<text text-anchor="" x="1190.74" y="127.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  ></text>
-</g>
-<g class="func_g" onmouseover="s(this)" onmouseout="c()" onclick="zoom(this)">
-<title>oms`je_arena_ralloc (4 samples, 0.19%)</title><rect x="435.4" y="117" width="2.3" height="15.0" fill="rgb(231,9,13)" rx="2" ry="2" />
-<text text-anchor="" x="438.39" y="127.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  ></text>
-</g>
-<g class="func_g" onmouseover="s(this)" onmouseout="c()" onclick="zoom(this)">
-<title>oms`je_chunk_alloc_mmap (1 samples, 0.05%)</title><rect x="1187.2" y="53" width="0.5" height="15.0" fill="rgb(211,188,41)" rx="2" ry="2" />
-<text text-anchor="" x="1190.17" y="63.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  ></text>
-</g>
-<g class="func_g" onmouseover="s(this)" onmouseout="c()" onclick="zoom(this)">
-<title>oms`alloc::allocator::Layout::repeat::hb8a1c50da637e34b (4 samples, 0.19%)</title><rect x="583.0" y="165" width="2.3" height="15.0" fill="rgb(240,155,29)" rx="2" ry="2" />
-<text text-anchor="" x="586.03" y="175.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  ></text>
-</g>
-<g class="func_g" onmouseover="s(this)" onmouseout="c()" onclick="zoom(this)">
-<title>oms`_$LT$alloc..btree..map..Iter$LT$$u27$a$C$$u20$K$C$$u20$V$GT$$u20$as$u20$core..iter..iterator..Iterator$GT$::next::h4bdee878da158cb9 (26 samples, 1.25%)</title><rect x="393.0" y="165" width="14.7" height="15.0" fill="rgb(240,99,30)" rx="2" ry="2" />
-<text text-anchor="" x="395.96" y="175.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  ></text>
-</g>
-<g class="func_g" onmouseover="s(this)" onmouseout="c()" onclick="zoom(this)">
-<title>oms`_$LT$alloc..raw_vec..RawVec$LT$T$C$$u20$A$GT$$GT$::reserve::hfe7ac829b882c74d (42 samples, 2.01%)</title><rect x="414.5" y="165" width="23.7" height="15.0" fill="rgb(246,73,46)" rx="2" ry="2" />
-<text text-anchor="" x="417.46" y="175.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  >o..</text>
-</g>
-<g class="func_g" onmouseover="s(this)" onmouseout="c()" onclick="zoom(this)">
-<title>oms`isfree (13 samples, 0.62%)</title><rect x="131.6" y="165" width="7.4" height="15.0" fill="rgb(234,109,12)" rx="2" ry="2" />
-<text text-anchor="" x="134.62" y="175.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  ></text>
-</g>
-<g class="func_g" onmouseover="s(this)" onmouseout="c()" onclick="zoom(this)">
-<title>oms`core::hash::impls::_$LT$impl$u20$core..hash..Hash$u20$for$u20$u64$GT$::hash::hd03a0e92ae4302be (6 samples, 0.29%)</title><rect x="902.1" y="117" width="3.4" height="15.0" fill="rgb(244,32,14)" rx="2" ry="2" />
-<text text-anchor="" x="905.07" y="127.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  ></text>
-</g>
-<g class="func_g" onmouseover="s(this)" onmouseout="c()" onclick="zoom(this)">
-<title>oms`arena_run_split_large_helper (1 samples, 0.05%)</title><rect x="1187.7" y="101" width="0.6" height="15.0" fill="rgb(206,146,6)" rx="2" ry="2" />
-<text text-anchor="" x="1190.74" y="111.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  ></text>
-</g>
-<g class="func_g" onmouseover="s(this)" onmouseout="c()" onclick="zoom(this)">
-<title>oms`_$LT$std..collections..hash..map..HashMap$LT$K$C$$u20$V$C$$u20$S$GT$$GT$::remove::hc15d51697f2202a6 (2 samples, 0.10%)</title><rect x="106.7" y="181" width="1.2" height="15.0" fill="rgb(223,101,7)" rx="2" ry="2" />
-<text text-anchor="" x="109.73" y="191.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  ></text>
-</g>
-<g class="func_g" onmouseover="s(this)" onmouseout="c()" onclick="zoom(this)">
-<title>oms`std::collections::hash::table::make_hash::h1035a5e14f752d6a (49 samples, 2.35%)</title><rect x="554.2" y="149" width="27.7" height="15.0" fill="rgb(238,26,46)" rx="2" ry="2" />
-<text text-anchor="" x="557.18" y="159.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  >o..</text>
-</g>
-<g class="func_g" onmouseover="s(this)" onmouseout="c()" onclick="zoom(this)">
-<title>oms`_$LT$std..collections..hash..map..HashMap$LT$K$C$$u20$V$C$$u20$S$GT$$GT$::insert::haa20bf5bf7c3bcc3 (1 samples, 0.05%)</title><rect x="438.2" y="165" width="0.6" height="15.0" fill="rgb(254,24,40)" rx="2" ry="2" />
-<text text-anchor="" x="441.22" y="175.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  ></text>
-</g>
-<g class="func_g" onmouseover="s(this)" onmouseout="c()" onclick="zoom(this)">
-<title>oms`csv::byte_record::validate::hf0a7de0a968afc5f (1 samples, 0.05%)</title><rect x="104.5" y="165" width="0.5" height="15.0" fill="rgb(237,37,5)" rx="2" ry="2" />
-<text text-anchor="" x="107.47" y="175.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  ></text>
-</g>
-<g class="func_g" onmouseover="s(this)" onmouseout="c()" onclick="zoom(this)">
-<title>oms`je_mallocx (1 samples, 0.05%)</title><rect x="410.5" y="133" width="0.6" height="15.0" fill="rgb(248,201,18)" rx="2" ry="2" />
-<text text-anchor="" x="413.50" y="143.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  ></text>
-</g>
-<g class="func_g" onmouseover="s(this)" onmouseout="c()" onclick="zoom(this)">
-<title>libsystem_platform.dylib`_platform_memmove$VARIANT$Haswell (9 samples, 0.43%)</title><rect x="674.7" y="149" width="5.1" height="15.0" fill="rgb(216,185,3)" rx="2" ry="2" />
-<text text-anchor="" x="677.67" y="159.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  ></text>
-</g>
-<g class="func_g" onmouseover="s(this)" onmouseout="c()" onclick="zoom(this)">
-<title>oms`je_arena_maybe_purge (48 samples, 2.30%)</title><rect x="139.0" y="133" width="27.1" height="15.0" fill="rgb(221,117,38)" rx="2" ry="2" />
-<text text-anchor="" x="141.97" y="143.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  >o..</text>
-</g>
-<g class="func_g" onmouseover="s(this)" onmouseout="c()" onclick="zoom(this)">
-<title>oms`je_arena_maybe_purge (28 samples, 1.34%)</title><rect x="110.1" y="117" width="15.9" height="15.0" fill="rgb(238,125,7)" rx="2" ry="2" />
-<text text-anchor="" x="113.12" y="127.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  ></text>
-</g>
-<g class="func_g" onmouseover="s(this)" onmouseout="c()" onclick="zoom(this)">
-<title>oms`0x1 (2,086 samples, 100.00%)</title><rect x="10.0" y="309" width="1180.0" height="15.0" fill="rgb(210,91,25)" rx="2" ry="2" />
-<text text-anchor="" x="13.00" y="319.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  >oms`0x1</text>
-</g>
-<g class="func_g" onmouseover="s(this)" onmouseout="c()" onclick="zoom(this)">
-<title>libsystem_kernel.dylib`__mmap (13 samples, 0.62%)</title><rect x="158.8" y="85" width="7.3" height="15.0" fill="rgb(225,228,2)" rx="2" ry="2" />
-<text text-anchor="" x="161.77" y="95.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  ></text>
-</g>
-<g class="func_g" onmouseover="s(this)" onmouseout="c()" onclick="zoom(this)">
-<title>oms`je_huge_dalloc (28 samples, 1.34%)</title><rect x="110.1" y="149" width="15.9" height="15.0" fill="rgb(228,168,41)" rx="2" ry="2" />
-<text text-anchor="" x="113.12" y="159.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  ></text>
-</g>
-<g class="func_g" onmouseover="s(this)" onmouseout="c()" onclick="zoom(this)">
-<title>oms`je_arena_ralloc (6 samples, 0.29%)</title><rect x="699.6" y="101" width="3.4" height="15.0" fill="rgb(214,131,14)" rx="2" ry="2" />
-<text text-anchor="" x="702.56" y="111.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  ></text>
-</g>
-<g class="func_g" onmouseover="s(this)" onmouseout="c()" onclick="zoom(this)">
-<title>oms`je_chunk_alloc_wrapper (1 samples, 0.05%)</title><rect x="1187.2" y="69" width="0.5" height="15.0" fill="rgb(240,81,33)" rx="2" ry="2" />
-<text text-anchor="" x="1190.17" y="79.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  ></text>
-</g>
-<g class="func_g" onmouseover="s(this)" onmouseout="c()" onclick="zoom(this)">
-<title>libsystem_platform.dylib`_platform_memmove$VARIANT$Haswell (1 samples, 0.05%)</title><rect x="409.9" y="133" width="0.6" height="15.0" fill="rgb(236,54,2)" rx="2" ry="2" />
-<text text-anchor="" x="412.93" y="143.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  ></text>
-</g>
-<g class="func_g" onmouseover="s(this)" onmouseout="c()" onclick="zoom(this)">
-<title>libsystem_platform.dylib`_platform_bzero$VARIANT$Haswell (106 samples, 5.08%)</title><rect x="1127.2" y="133" width="60.0" height="15.0" fill="rgb(244,208,53)" rx="2" ry="2" />
-<text text-anchor="" x="1130.21" y="143.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  >libsys..</text>
-</g>
-<g class="func_g" onmouseover="s(this)" onmouseout="c()" onclick="zoom(this)">
-<title>oms`_$LT$alloc..btree..map..BTreeMap$LT$K$C$$u20$V$GT$$GT$::iter::h5ba08fa1630ef2d2 (4 samples, 0.19%)</title><rect x="37.7" y="181" width="2.3" height="15.0" fill="rgb(230,17,40)" rx="2" ry="2" />
-<text text-anchor="" x="40.72" y="191.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  ></text>
-</g>
-<g class="func_g" onmouseover="s(this)" onmouseout="c()" onclick="zoom(this)">
-<title>oms`__rde_realloc (5 samples, 0.24%)</title><rect x="434.8" y="149" width="2.9" height="15.0" fill="rgb(215,197,23)" rx="2" ry="2" />
-<text text-anchor="" x="437.82" y="159.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  ></text>
-</g>
-<g class="func_g" onmouseover="s(this)" onmouseout="c()" onclick="zoom(this)">
-<title>oms`je_chunk_dalloc_wrapper (35 samples, 1.68%)</title><rect x="139.0" y="101" width="19.8" height="15.0" fill="rgb(250,81,33)" rx="2" ry="2" />
-<text text-anchor="" x="141.97" y="111.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  ></text>
-</g>
-<g class="func_g" onmouseover="s(this)" onmouseout="c()" onclick="zoom(this)">
-<title>libsystem_kernel.dylib`__munmap (1 samples, 0.05%)</title><rect x="1187.2" y="37" width="0.5" height="15.0" fill="rgb(225,26,6)" rx="2" ry="2" />
-<text text-anchor="" x="1190.17" y="47.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  ></text>
-</g>
-<g class="func_g" onmouseover="s(this)" onmouseout="c()" onclick="zoom(this)">
-<title>oms`oms::main::h297e1870315164f7 (2,081 samples, 99.76%)</title><rect x="12.3" y="197" width="1177.1" height="15.0" fill="rgb(210,160,53)" rx="2" ry="2" />
-<text text-anchor="" x="15.26" y="207.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  >oms`oms::main::h297e1870315164f7</text>
-</g>
-<g class="func_g" onmouseover="s(this)" onmouseout="c()" onclick="zoom(this)">
-<title>oms`_$LT$alloc..btree..map..Iter$LT$$u27$a$C$$u20$K$C$$u20$V$GT$$u20$as$u20$core..iter..iterator..Iterator$GT$::next::h4bdee878da158cb9 (113 samples, 5.42%)</title><rect x="40.0" y="181" width="63.9" height="15.0" fill="rgb(228,87,13)" rx="2" ry="2" />
-<text text-anchor="" x="42.98" y="191.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  >oms`_$L..</text>
-</g>
-<g class="func_g" onmouseover="s(this)" onmouseout="c()" onclick="zoom(this)">
-<title>oms`je_mallocx (1 samples, 0.05%)</title><rect x="1187.7" y="133" width="0.6" height="15.0" fill="rgb(244,184,29)" rx="2" ry="2" />
-<text text-anchor="" x="1190.74" y="143.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  ></text>
-</g>
-<g class="func_g" onmouseover="s(this)" onmouseout="c()" onclick="zoom(this)">
-<title>oms`je_rallocx (7 samples, 0.34%)</title><rect x="699.0" y="117" width="4.0" height="15.0" fill="rgb(212,171,34)" rx="2" ry="2" />
-<text text-anchor="" x="701.99" y="127.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  ></text>
-</g>
-<g class="func_g" onmouseover="s(this)" onmouseout="c()" onclick="zoom(this)">
-<title>libdyld.dylib`start (2,086 samples, 100.00%)</title><rect x="10.0" y="293" width="1180.0" height="15.0" fill="rgb(228,161,46)" rx="2" ry="2" />
+<title>libdyld.dylib`start (2,014 samples, 100.00%)</title><rect x="10.0" y="293" width="1180.0" height="15.0" fill="rgb(229,20,40)" rx="2" ry="2" />
 <text text-anchor="" x="13.00" y="303.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  >libdyld.dylib`start</text>
 </g>
 <g class="func_g" onmouseover="s(this)" onmouseout="c()" onclick="zoom(this)">
-<title>oms`oms::order_list::OrderList::new::hf7fd6823fc061ae7 (498 samples, 23.87%)</title><rect x="906.6" y="165" width="281.7" height="15.0" fill="rgb(230,194,4)" rx="2" ry="2" />
-<text text-anchor="" x="909.60" y="175.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  >oms`oms::order_list::OrderList::new::..</text>
+<title>oms`core::hash::impls::_$LT$impl$u20$core..hash..Hash$u20$for$u20$u64$GT$::hash::hd03a0e92ae4302be (12 samples, 0.60%)</title><rect x="886.5" y="117" width="7.0" height="15.0" fill="rgb(234,55,53)" rx="2" ry="2" />
+<text text-anchor="" x="889.50" y="127.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  ></text>
 </g>
 <g class="func_g" onmouseover="s(this)" onmouseout="c()" onclick="zoom(this)">
-<title>oms`std::rt::lang_start_internal::h314ef05d34a9433b (2,086 samples, 100.00%)</title><rect x="10.0" y="261" width="1180.0" height="15.0" fill="rgb(250,2,51)" rx="2" ry="2" />
-<text text-anchor="" x="13.00" y="271.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  >oms`std::rt::lang_start_internal::h314ef05d34a9433b</text>
+<title>oms`core::hash::impls::_$LT$impl$u20$core..hash..Hash$u20$for$u20$u64$GT$::hash::hd03a0e92ae4302be (1 samples, 0.05%)</title><rect x="872.4" y="133" width="0.6" height="15.0" fill="rgb(209,164,53)" rx="2" ry="2" />
+<text text-anchor="" x="875.44" y="143.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  ></text>
 </g>
 <g class="func_g" onmouseover="s(this)" onmouseout="c()" onclick="zoom(this)">
-<title>oms`_$LT$alloc..raw_vec..RawVec$LT$T$C$$u20$A$GT$$GT$::double::h80c36589fd7456e2 (2 samples, 0.10%)</title><rect x="413.3" y="165" width="1.2" height="15.0" fill="rgb(225,149,7)" rx="2" ry="2" />
-<text text-anchor="" x="416.33" y="175.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  ></text>
+<title>oms`arena_purge_to_limit (37 samples, 1.84%)</title><rect x="104.3" y="101" width="21.7" height="15.0" fill="rgb(213,126,28)" rx="2" ry="2" />
+<text text-anchor="" x="107.33" y="111.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  >o..</text>
 </g>
 <g class="func_g" onmouseover="s(this)" onmouseout="c()" onclick="zoom(this)">
-<title>oms`je_arena_chunk_alloc_huge (1 samples, 0.05%)</title><rect x="1187.2" y="85" width="0.5" height="15.0" fill="rgb(225,8,14)" rx="2" ry="2" />
-<text text-anchor="" x="1190.17" y="95.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  ></text>
+<title>libsystem_platform.dylib`_platform_memmove$VARIANT$Haswell (1 samples, 0.05%)</title><rect x="410.2" y="133" width="0.6" height="15.0" fill="rgb(233,224,33)" rx="2" ry="2" />
+<text text-anchor="" x="413.17" y="143.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  ></text>
 </g>
 <g class="func_g" onmouseover="s(this)" onmouseout="c()" onclick="zoom(this)">
-<title>libsystem_platform.dylib`_platform_memmove$VARIANT$Haswell (2 samples, 0.10%)</title><rect x="701.8" y="85" width="1.2" height="15.0" fill="rgb(249,225,29)" rx="2" ry="2" />
-<text text-anchor="" x="704.82" y="95.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  ></text>
+<title>oms`je_sdallocx (24 samples, 1.19%)</title><rect x="602.3" y="165" width="14.1" height="15.0" fill="rgb(227,175,47)" rx="2" ry="2" />
+<text text-anchor="" x="605.34" y="175.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  ></text>
 </g>
 <g class="func_g" onmouseover="s(this)" onmouseout="c()" onclick="zoom(this)">
-<title>oms`je_tcache_alloc_small_hard (2 samples, 0.10%)</title><rect x="436.5" y="101" width="1.2" height="15.0" fill="rgb(254,219,22)" rx="2" ry="2" />
-<text text-anchor="" x="439.52" y="111.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  ></text>
+<title>oms`je_arena_ralloc (5 samples, 0.25%)</title><rect x="411.3" y="117" width="3.0" height="15.0" fill="rgb(212,86,13)" rx="2" ry="2" />
+<text text-anchor="" x="414.34" y="127.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  ></text>
 </g>
 <g class="func_g" onmouseover="s(this)" onmouseout="c()" onclick="zoom(this)">
-<title>oms`je_sdallocx (69 samples, 3.31%)</title><rect x="127.1" y="181" width="39.0" height="15.0" fill="rgb(234,85,5)" rx="2" ry="2" />
-<text text-anchor="" x="130.09" y="191.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  >oms..</text>
+<title>oms`oms::order_list::OrderList::insert::h5a535c853bbd96a2 (2 samples, 0.10%)</title><rect x="1188.8" y="181" width="1.2" height="15.0" fill="rgb(229,122,35)" rx="2" ry="2" />
+<text text-anchor="" x="1191.83" y="191.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  ></text>
 </g>
 <g class="func_g" onmouseover="s(this)" onmouseout="c()" onclick="zoom(this)">
-<title>oms`je_mallocx (17 samples, 0.81%)</title><rect x="689.4" y="117" width="9.6" height="15.0" fill="rgb(254,227,18)" rx="2" ry="2" />
-<text text-anchor="" x="692.38" y="127.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  ></text>
+<title>libsystem_pthread.dylib`pthread_getspecific (1 samples, 0.05%)</title><rect x="34.6" y="181" width="0.6" height="15.0" fill="rgb(211,111,23)" rx="2" ry="2" />
+<text text-anchor="" x="37.61" y="191.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  ></text>
 </g>
 <g class="func_g" onmouseover="s(this)" onmouseout="c()" onclick="zoom(this)">
-<title>oms`je_arena_tcache_fill_small (2 samples, 0.10%)</title><rect x="436.5" y="85" width="1.2" height="15.0" fill="rgb(244,129,25)" rx="2" ry="2" />
-<text text-anchor="" x="439.52" y="95.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  ></text>
+<title>oms`core::hash::impls::_$LT$impl$u20$core..hash..Hash$u20$for$u20$u64$GT$::hash::hd03a0e92ae4302be (1 samples, 0.05%)</title><rect x="543.2" y="149" width="0.6" height="15.0" fill="rgb(244,173,38)" rx="2" ry="2" />
+<text text-anchor="" x="546.17" y="159.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  ></text>
 </g>
 <g class="func_g" onmouseover="s(this)" onmouseout="c()" onclick="zoom(this)">
-<title>oms`je_chunk_dalloc_mmap (27 samples, 1.29%)</title><rect x="110.1" y="69" width="15.3" height="15.0" fill="rgb(216,172,3)" rx="2" ry="2" />
-<text text-anchor="" x="113.12" y="79.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  ></text>
+<title>oms`_$LT$std..collections..hash..map..HashMap$LT$K$C$$u20$V$C$$u20$S$GT$$GT$::remove::hc15d51697f2202a6 (2 samples, 0.10%)</title><rect x="102.0" y="181" width="1.2" height="15.0" fill="rgb(250,168,8)" rx="2" ry="2" />
+<text text-anchor="" x="104.99" y="191.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  ></text>
 </g>
 <g class="func_g" onmouseover="s(this)" onmouseout="c()" onclick="zoom(this)">
-<title>oms`std::panicking::try::do_call::hb514f7178ba0e034 (2,086 samples, 100.00%)</title><rect x="10.0" y="229" width="1180.0" height="15.0" fill="rgb(207,50,30)" rx="2" ry="2" />
-<text text-anchor="" x="13.00" y="239.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  >oms`std::panicking::try::do_call::hb514f7178ba0e034</text>
+<title>oms`je_chunk_dalloc_mmap (34 samples, 1.69%)</title><rect x="104.9" y="69" width="19.9" height="15.0" fill="rgb(246,127,13)" rx="2" ry="2" />
+<text text-anchor="" x="107.92" y="79.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  ></text>
 </g>
 <g class="func_g" onmouseover="s(this)" onmouseout="c()" onclick="zoom(this)">
-<title>oms`je_tcache_bin_flush_small (1 samples, 0.05%)</title><rect x="434.3" y="101" width="0.5" height="15.0" fill="rgb(219,156,12)" rx="2" ry="2" />
-<text text-anchor="" x="437.26" y="111.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  ></text>
+<title>oms`oms::main::h297e1870315164f7 (2,010 samples, 99.80%)</title><rect x="12.3" y="197" width="1177.7" height="15.0" fill="rgb(209,112,26)" rx="2" ry="2" />
+<text text-anchor="" x="15.34" y="207.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  >oms`oms::main::h297e1870315164f7</text>
 </g>
 <g class="func_g" onmouseover="s(this)" onmouseout="c()" onclick="zoom(this)">
-<title>oms`__rde_alloc (23 samples, 1.10%)</title><rect x="686.0" y="133" width="13.0" height="15.0" fill="rgb(223,43,10)" rx="2" ry="2" />
-<text text-anchor="" x="688.98" y="143.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  ></text>
+<title>oms`je_arena_ralloc (5 samples, 0.25%)</title><rect x="689.1" y="101" width="2.9" height="15.0" fill="rgb(227,33,2)" rx="2" ry="2" />
+<text text-anchor="" x="692.06" y="111.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  ></text>
 </g>
 <g class="func_g" onmouseover="s(this)" onmouseout="c()" onclick="zoom(this)">
-<title>oms`je_mallocx (15 samples, 0.72%)</title><rect x="426.3" y="133" width="8.5" height="15.0" fill="rgb(209,173,23)" rx="2" ry="2" />
-<text text-anchor="" x="429.34" y="143.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  ></text>
+<title>oms`oms::order_book::OrderBook::process_order_list::hc11501658e0c590d (1 samples, 0.05%)</title><rect x="1188.2" y="181" width="0.6" height="15.0" fill="rgb(212,39,54)" rx="2" ry="2" />
+<text text-anchor="" x="1191.24" y="191.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  ></text>
 </g>
 <g class="func_g" onmouseover="s(this)" onmouseout="c()" onclick="zoom(this)">
-<title>oms`je_mallocx (2 samples, 0.10%)</title><rect x="703.0" y="133" width="1.1" height="15.0" fill="rgb(238,156,2)" rx="2" ry="2" />
-<text text-anchor="" x="705.95" y="143.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  ></text>
+<title>oms`arena_run_split_large_helper (1 samples, 0.05%)</title><rect x="104.3" y="85" width="0.6" height="15.0" fill="rgb(253,63,10)" rx="2" ry="2" />
+<text text-anchor="" x="107.33" y="95.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  ></text>
 </g>
 <g class="func_g" onmouseover="s(this)" onmouseout="c()" onclick="zoom(this)">
-<title>oms`je_arena_tcache_fill_small (1 samples, 0.05%)</title><rect x="433.7" y="101" width="0.6" height="15.0" fill="rgb(237,37,16)" rx="2" ry="2" />
-<text text-anchor="" x="436.69" y="111.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  ></text>
+<title>oms`je_huge_dalloc (40 samples, 1.99%)</title><rect x="136.0" y="165" width="23.4" height="15.0" fill="rgb(246,175,27)" rx="2" ry="2" />
+<text text-anchor="" x="138.97" y="175.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  >o..</text>
 </g>
 <g class="func_g" onmouseover="s(this)" onmouseout="c()" onclick="zoom(this)">
-<title>oms`isfree (13 samples, 0.62%)</title><rect x="617.5" y="149" width="7.4" height="15.0" fill="rgb(218,200,3)" rx="2" ry="2" />
-<text text-anchor="" x="620.54" y="159.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  ></text>
+<title>oms`_$LT$alloc..btree..node..Handle$LT$alloc..btree..node..NodeRef$LT$alloc..btree..node..marker..Mut$LT$$u27$a$GT$$C$$u20$K$C$$u20$V$C$$u20$alloc..btree..node..marker..Leaf$GT$$C$$u20$alloc..btree..node..marker..Edge$GT$$GT$::insert::h4734e714908e3daa (2 samples, 0.10%)</title><rect x="409.6" y="149" width="1.2" height="15.0" fill="rgb(214,70,49)" rx="2" ry="2" />
+<text text-anchor="" x="412.58" y="159.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  ></text>
 </g>
 <g class="func_g" onmouseover="s(this)" onmouseout="c()" onclick="zoom(this)">
-<title>oms`je_pages_commit (2 samples, 0.10%)</title><rect x="436.5" y="53" width="1.2" height="15.0" fill="rgb(224,114,31)" rx="2" ry="2" />
-<text text-anchor="" x="439.52" y="63.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  ></text>
+<title>libsystem_kernel.dylib`__munmap (34 samples, 1.69%)</title><rect x="104.9" y="53" width="19.9" height="15.0" fill="rgb(249,93,6)" rx="2" ry="2" />
+<text text-anchor="" x="107.92" y="63.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  ></text>
 </g>
 <g class="func_g" onmouseover="s(this)" onmouseout="c()" onclick="zoom(this)">
-<title>oms`je_huge_palloc (1 samples, 0.05%)</title><rect x="1187.2" y="101" width="0.5" height="15.0" fill="rgb(235,26,12)" rx="2" ry="2" />
-<text text-anchor="" x="1190.17" y="111.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  ></text>
+<title>oms`std::collections::hash::table::make_hash::h1035a5e14f752d6a (3 samples, 0.15%)</title><rect x="893.5" y="165" width="1.8" height="15.0" fill="rgb(207,13,15)" rx="2" ry="2" />
+<text text-anchor="" x="896.54" y="175.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  ></text>
 </g>
 <g class="func_g" onmouseover="s(this)" onmouseout="c()" onclick="zoom(this)">
-<title>oms`je_arena_chunk_dalloc_huge (48 samples, 2.30%)</title><rect x="139.0" y="149" width="27.1" height="15.0" fill="rgb(237,195,17)" rx="2" ry="2" />
-<text text-anchor="" x="141.97" y="159.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  >o..</text>
+<title>oms`je_tcache_event_hard (1 samples, 0.05%)</title><rect x="615.8" y="149" width="0.6" height="15.0" fill="rgb(238,2,3)" rx="2" ry="2" />
+<text text-anchor="" x="618.82" y="159.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  ></text>
 </g>
 <g class="func_g" onmouseover="s(this)" onmouseout="c()" onclick="zoom(this)">
-<title>oms`__rust_realloc (1 samples, 0.05%)</title><rect x="582.5" y="165" width="0.5" height="15.0" fill="rgb(230,155,28)" rx="2" ry="2" />
-<text text-anchor="" x="585.46" y="175.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  ></text>
+<title>oms`_$LT$alloc..raw_vec..RawVec$LT$T$C$$u20$A$GT$$GT$::double::h80c36589fd7456e2 (2 samples, 0.10%)</title><rect x="414.3" y="165" width="1.1" height="15.0" fill="rgb(232,183,42)" rx="2" ry="2" />
+<text text-anchor="" x="417.27" y="175.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  ></text>
 </g>
 <g class="func_g" onmouseover="s(this)" onmouseout="c()" onclick="zoom(this)">
-<title>oms`_$LT$csv..reader..DeserializeRecordsIter$LT$$u27$r$C$$u20$R$C$$u20$D$GT$$u20$as$u20$core..iter..iterator..Iterator$GT$::next::h9d872933dea890cb (5 samples, 0.24%)</title><rect x="103.9" y="181" width="2.8" height="15.0" fill="rgb(251,9,20)" rx="2" ry="2" />
-<text text-anchor="" x="106.90" y="191.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  ></text>
+<title>oms`je_sdallocx (57 samples, 2.83%)</title><rect x="126.0" y="181" width="33.4" height="15.0" fill="rgb(226,41,38)" rx="2" ry="2" />
+<text text-anchor="" x="129.01" y="191.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  >om..</text>
 </g>
 <g class="func_g" onmouseover="s(this)" onmouseout="c()" onclick="zoom(this)">
-<title>oms`je_huge_dalloc (48 samples, 2.30%)</title><rect x="139.0" y="165" width="27.1" height="15.0" fill="rgb(207,23,1)" rx="2" ry="2" />
-<text text-anchor="" x="141.97" y="175.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  >o..</text>
+<title>oms`je_mallocx (13 samples, 0.65%)</title><rect x="679.7" y="117" width="7.6" height="15.0" fill="rgb(231,158,28)" rx="2" ry="2" />
+<text text-anchor="" x="682.68" y="127.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  ></text>
 </g>
 <g class="func_g" onmouseover="s(this)" onmouseout="c()" onclick="zoom(this)">
-<title>libsystem_pthread.dylib`pthread_getspecific (2 samples, 0.10%)</title><rect x="425.2" y="133" width="1.1" height="15.0" fill="rgb(221,88,35)" rx="2" ry="2" />
-<text text-anchor="" x="428.21" y="143.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  ></text>
+<title>oms`_$LT$alloc..raw_vec..RawVec$LT$T$C$$u20$A$GT$$GT$::reserve::hfe7ac829b882c74d (38 samples, 1.89%)</title><rect x="415.4" y="165" width="22.3" height="15.0" fill="rgb(221,187,54)" rx="2" ry="2" />
+<text text-anchor="" x="418.44" y="175.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  >o..</text>
 </g>
 <g class="func_g" onmouseover="s(this)" onmouseout="c()" onclick="zoom(this)">
-<title>oms`je_pages_commit (1 samples, 0.05%)</title><rect x="1187.7" y="85" width="0.6" height="15.0" fill="rgb(216,41,14)" rx="2" ry="2" />
-<text text-anchor="" x="1190.74" y="95.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  ></text>
+<title>oms`je_arena_ralloc_no_move (2 samples, 0.10%)</title><rect x="690.8" y="85" width="1.2" height="15.0" fill="rgb(224,175,39)" rx="2" ry="2" />
+<text text-anchor="" x="693.81" y="95.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  ></text>
 </g>
 <g class="func_g" onmouseover="s(this)" onmouseout="c()" onclick="zoom(this)">
-<title>oms`__rust_maybe_catch_panic (2,086 samples, 100.00%)</title><rect x="10.0" y="245" width="1180.0" height="15.0" fill="rgb(240,113,25)" rx="2" ry="2" />
-<text text-anchor="" x="13.00" y="255.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  >oms`__rust_maybe_catch_panic</text>
+<title>libsystem_pthread.dylib`pthread_getspecific (3 samples, 0.15%)</title><rect x="371.5" y="165" width="1.8" height="15.0" fill="rgb(240,69,3)" rx="2" ry="2" />
+<text text-anchor="" x="374.50" y="175.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  ></text>
 </g>
 <g class="func_g" onmouseover="s(this)" onmouseout="c()" onclick="zoom(this)">
-<title>oms`je_pages_decommit (1 samples, 0.05%)</title><rect x="125.4" y="85" width="0.6" height="15.0" fill="rgb(253,46,50)" rx="2" ry="2" />
-<text text-anchor="" x="128.40" y="95.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  ></text>
+<title>oms`je_arena_ralloc (2 samples, 0.10%)</title><rect x="436.5" y="117" width="1.2" height="15.0" fill="rgb(207,34,11)" rx="2" ry="2" />
+<text text-anchor="" x="439.53" y="127.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  ></text>
 </g>
 <g class="func_g" onmouseover="s(this)" onmouseout="c()" onclick="zoom(this)">
-<title>oms`je_pages_decommit (13 samples, 0.62%)</title><rect x="158.8" y="101" width="7.3" height="15.0" fill="rgb(254,142,34)" rx="2" ry="2" />
-<text text-anchor="" x="161.77" y="111.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  ></text>
+<title>oms`isfree (2 samples, 0.10%)</title><rect x="601.2" y="165" width="1.1" height="15.0" fill="rgb(234,194,18)" rx="2" ry="2" />
+<text text-anchor="" x="604.17" y="175.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  ></text>
 </g>
 <g class="func_g" onmouseover="s(this)" onmouseout="c()" onclick="zoom(this)">
-<title>oms`je_chunk_dalloc_mmap (35 samples, 1.68%)</title><rect x="139.0" y="85" width="19.8" height="15.0" fill="rgb(242,181,4)" rx="2" ry="2" />
-<text text-anchor="" x="141.97" y="95.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  ></text>
+<title>oms`_$LT$alloc..raw_vec..RawVec$LT$T$C$$u20$A$GT$$GT$::double::h640c76efc851433b (6 samples, 0.30%)</title><rect x="410.8" y="165" width="3.5" height="15.0" fill="rgb(252,17,22)" rx="2" ry="2" />
+<text text-anchor="" x="413.75" y="175.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  ></text>
 </g>
 <g class="func_g" onmouseover="s(this)" onmouseout="c()" onclick="zoom(this)">
-<title>oms`__rust_dealloc (1 samples, 0.05%)</title><rect x="11.7" y="197" width="0.6" height="15.0" fill="rgb(249,49,52)" rx="2" ry="2" />
-<text text-anchor="" x="14.70" y="207.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  ></text>
+<title>oms`_$LT$alloc..btree..map..BTreeMap$LT$K$C$$u20$V$GT$$GT$::iter::h5ba08fa1630ef2d2 (36 samples, 1.79%)</title><rect x="373.3" y="165" width="21.0" height="15.0" fill="rgb(248,213,23)" rx="2" ry="2" />
+<text text-anchor="" x="376.26" y="175.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  ></text>
 </g>
 <g class="func_g" onmouseover="s(this)" onmouseout="c()" onclick="zoom(this)">
-<title>oms`_$LT$alloc..raw_vec..RawVec$LT$T$C$$u20$A$GT$$GT$::double::h640c76efc851433b (4 samples, 0.19%)</title><rect x="411.1" y="165" width="2.2" height="15.0" fill="rgb(212,17,18)" rx="2" ry="2" />
-<text text-anchor="" x="414.06" y="175.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  ></text>
+<title>oms`_$LT$alloc..btree..map..Iter$LT$$u27$a$C$$u20$K$C$$u20$V$GT$$u20$as$u20$core..iter..iterator..Iterator$GT$::next::h4bdee878da158cb9 (22 samples, 1.09%)</title><rect x="394.3" y="165" width="12.9" height="15.0" fill="rgb(253,197,48)" rx="2" ry="2" />
+<text text-anchor="" x="397.35" y="175.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  ></text>
 </g>
 <g class="func_g" onmouseover="s(this)" onmouseout="c()" onclick="zoom(this)">
-<title>oms`core::hash::impls::_$LT$impl$u20$core..hash..Hash$u20$for$u20$u64$GT$::hash::hd03a0e92ae4302be (19 samples, 0.91%)</title><rect x="571.2" y="133" width="10.7" height="15.0" fill="rgb(207,176,25)" rx="2" ry="2" />
-<text text-anchor="" x="574.15" y="143.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  ></text>
+<title>oms`alloc::btree::search::search_tree::haa5d7bc944d6f8bb (2 samples, 0.10%)</title><rect x="103.2" y="181" width="1.1" height="15.0" fill="rgb(231,93,35)" rx="2" ry="2" />
+<text text-anchor="" x="106.16" y="191.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  ></text>
 </g>
 <g class="func_g" onmouseover="s(this)" onmouseout="c()" onclick="zoom(this)">
-<title>oms`_$LT$std..collections..hash..table..RawTable$LT$K$C$$u20$V$GT$$GT$::try_new::h05cf365a655afbf3 (107 samples, 5.13%)</title><rect x="1127.2" y="149" width="60.5" height="15.0" fill="rgb(218,33,22)" rx="2" ry="2" />
-<text text-anchor="" x="1130.21" y="159.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  >oms`_$..</text>
+<title>oms`__rde_alloc (4 samples, 0.20%)</title><rect x="571.9" y="165" width="2.3" height="15.0" fill="rgb(221,43,5)" rx="2" ry="2" />
+<text text-anchor="" x="574.88" y="175.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  ></text>
 </g>
 <g class="func_g" onmouseover="s(this)" onmouseout="c()" onclick="zoom(this)">
-<title>oms`isfree (2 samples, 0.10%)</title><rect x="126.0" y="181" width="1.1" height="15.0" fill="rgb(228,137,18)" rx="2" ry="2" />
-<text text-anchor="" x="128.96" y="191.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  ></text>
+<title>oms`je_mallocx (15 samples, 0.74%)</title><rect x="426.6" y="133" width="8.8" height="15.0" fill="rgb(240,18,41)" rx="2" ry="2" />
+<text text-anchor="" x="429.57" y="143.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  ></text>
 </g>
 <g class="func_g" onmouseover="s(this)" onmouseout="c()" onclick="zoom(this)">
-<title>oms`__rde_dealloc (1 samples, 0.05%)</title><rect x="581.9" y="165" width="0.6" height="15.0" fill="rgb(222,154,14)" rx="2" ry="2" />
-<text text-anchor="" x="584.90" y="175.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  ></text>
+<title>oms`__rde_realloc (8 samples, 0.40%)</title><rect x="687.3" y="133" width="4.7" height="15.0" fill="rgb(226,217,3)" rx="2" ry="2" />
+<text text-anchor="" x="690.30" y="143.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  ></text>
 </g>
 <g class="func_g" onmouseover="s(this)" onmouseout="c()" onclick="zoom(this)">
-<title>libsystem_kernel.dylib`__munmap (35 samples, 1.68%)</title><rect x="139.0" y="69" width="19.8" height="15.0" fill="rgb(210,72,7)" rx="2" ry="2" />
-<text text-anchor="" x="141.97" y="79.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  ></text>
+<title>oms`std::collections::hash::table::make_hash::h1035a5e14f752d6a (48 samples, 2.38%)</title><rect x="543.8" y="149" width="28.1" height="15.0" fill="rgb(225,177,29)" rx="2" ry="2" />
+<text text-anchor="" x="546.75" y="159.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  >o..</text>
 </g>
 <g class="func_g" onmouseover="s(this)" onmouseout="c()" onclick="zoom(this)">
-<title>oms`_$LT$alloc..btree..node..Handle$LT$alloc..btree..node..NodeRef$LT$alloc..btree..node..marker..Mut$LT$$u27$a$GT$$C$$u20$K$C$$u20$V$C$$u20$alloc..btree..node..marker..Leaf$GT$$C$$u20$alloc..btree..node..marker..Edge$GT$$GT$::insert::h4734e714908e3daa (1 samples, 0.05%)</title><rect x="409.9" y="149" width="0.6" height="15.0" fill="rgb(243,127,35)" rx="2" ry="2" />
-<text text-anchor="" x="412.93" y="159.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  ></text>
+<title>oms`je_mallocx (2 samples, 0.10%)</title><rect x="573.0" y="149" width="1.2" height="15.0" fill="rgb(243,117,15)" rx="2" ry="2" />
+<text text-anchor="" x="576.05" y="159.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  ></text>
 </g>
 <g class="func_g" onmouseover="s(this)" onmouseout="c()" onclick="zoom(this)">
-<title>oms`_$LT$alloc..raw_vec..RawVec$LT$T$C$$u20$A$GT$$GT$::double::h80c36589fd7456e2 (43 samples, 2.06%)</title><rect x="679.8" y="149" width="24.3" height="15.0" fill="rgb(227,142,14)" rx="2" ry="2" />
-<text text-anchor="" x="682.76" y="159.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  >o..</text>
+<title>oms`je_huge_dalloc (37 samples, 1.84%)</title><rect x="104.3" y="149" width="21.7" height="15.0" fill="rgb(235,21,39)" rx="2" ry="2" />
+<text text-anchor="" x="107.33" y="159.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  >o..</text>
+</g>
+<g class="func_g" onmouseover="s(this)" onmouseout="c()" onclick="zoom(this)">
+<title>oms`_$LT$alloc..raw_vec..RawVec$LT$T$C$$u20$A$GT$$GT$::double::hf8fc37ce71e23205 (1 samples, 0.05%)</title><rect x="97.9" y="181" width="0.6" height="15.0" fill="rgb(249,105,24)" rx="2" ry="2" />
+<text text-anchor="" x="100.88" y="191.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  ></text>
+</g>
+<g class="func_g" onmouseover="s(this)" onmouseout="c()" onclick="zoom(this)">
+<title>oms`__rde_alloc (18 samples, 0.89%)</title><rect x="424.8" y="149" width="10.6" height="15.0" fill="rgb(211,143,21)" rx="2" ry="2" />
+<text text-anchor="" x="427.82" y="159.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  ></text>
+</g>
+<g class="func_g" onmouseover="s(this)" onmouseout="c()" onclick="zoom(this)">
+<title>oms`_$LT$alloc..btree..map..OccupiedEntry$LT$$u27$a$C$$u20$K$C$$u20$V$GT$$GT$::remove::h7063e17766e42dbb (2 samples, 0.10%)</title><rect x="407.2" y="165" width="1.2" height="15.0" fill="rgb(212,172,17)" rx="2" ry="2" />
+<text text-anchor="" x="410.24" y="175.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  ></text>
+</g>
+<g class="func_g" onmouseover="s(this)" onmouseout="c()" onclick="zoom(this)">
+<title>oms`oms::order_list::OrderList::new::hf7fd6823fc061ae7 (500 samples, 24.83%)</title><rect x="895.3" y="165" width="292.9" height="15.0" fill="rgb(206,102,16)" rx="2" ry="2" />
+<text text-anchor="" x="898.29" y="175.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  >oms`oms::order_list::OrderList::new::hf..</text>
+</g>
+<g class="func_g" onmouseover="s(this)" onmouseout="c()" onclick="zoom(this)">
+<title>oms`__rde_alloc (1 samples, 0.05%)</title><rect x="692.6" y="149" width="0.6" height="15.0" fill="rgb(220,119,22)" rx="2" ry="2" />
+<text text-anchor="" x="695.57" y="159.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  ></text>
+</g>
+<g class="func_g" onmouseover="s(this)" onmouseout="c()" onclick="zoom(this)">
+<title>oms`je_arena_ralloc_no_move (1 samples, 0.05%)</title><rect x="436.5" y="101" width="0.6" height="15.0" fill="rgb(206,97,15)" rx="2" ry="2" />
+<text text-anchor="" x="439.53" y="111.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  ></text>
+</g>
+<g class="func_g" onmouseover="s(this)" onmouseout="c()" onclick="zoom(this)">
+<title>oms`je_arena_chunk_dalloc_huge (40 samples, 1.99%)</title><rect x="136.0" y="149" width="23.4" height="15.0" fill="rgb(213,50,3)" rx="2" ry="2" />
+<text text-anchor="" x="138.97" y="159.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  >o..</text>
+</g>
+<g class="func_g" onmouseover="s(this)" onmouseout="c()" onclick="zoom(this)">
+<title>oms`_$LT$alloc..btree..map..BTreeMap$LT$K$C$$u20$V$GT$$GT$::iter::h5ba08fa1630ef2d2 (2 samples, 0.10%)</title><rect x="35.8" y="181" width="1.2" height="15.0" fill="rgb(250,92,3)" rx="2" ry="2" />
+<text text-anchor="" x="38.78" y="191.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  ></text>
+</g>
+<g class="func_g" onmouseover="s(this)" onmouseout="c()" onclick="zoom(this)">
+<title>oms`__rust_dealloc (1 samples, 0.05%)</title><rect x="11.8" y="197" width="0.5" height="15.0" fill="rgb(226,139,43)" rx="2" ry="2" />
+<text text-anchor="" x="14.76" y="207.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  ></text>
+</g>
+<g class="func_g" onmouseover="s(this)" onmouseout="c()" onclick="zoom(this)">
+<title>oms`_$LT$std..collections..hash..table..RawTable$LT$K$C$$u20$V$GT$$GT$::try_new::h05cf365a655afbf3 (114 samples, 5.66%)</title><rect x="1121.4" y="149" width="66.8" height="15.0" fill="rgb(222,194,46)" rx="2" ry="2" />
+<text text-anchor="" x="1124.45" y="159.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  >oms`_$L..</text>
+</g>
+<g class="func_g" onmouseover="s(this)" onmouseout="c()" onclick="zoom(this)">
+<title>oms`DYLD-STUB$$memmove (1 samples, 0.05%)</title><rect x="409.0" y="149" width="0.6" height="15.0" fill="rgb(207,117,24)" rx="2" ry="2" />
+<text text-anchor="" x="412.00" y="159.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  ></text>
+</g>
+<g class="func_g" onmouseover="s(this)" onmouseout="c()" onclick="zoom(this)">
+<title>oms`je_huge_ralloc (1 samples, 0.05%)</title><rect x="97.9" y="133" width="0.6" height="15.0" fill="rgb(246,189,26)" rx="2" ry="2" />
+<text text-anchor="" x="100.88" y="143.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  ></text>
+</g>
+<g class="func_g" onmouseover="s(this)" onmouseout="c()" onclick="zoom(this)">
+<title>oms`core::ptr::drop_in_place::h1b4986d375e21e1b (37 samples, 1.84%)</title><rect x="104.3" y="181" width="21.7" height="15.0" fill="rgb(215,209,1)" rx="2" ry="2" />
+<text text-anchor="" x="107.33" y="191.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  >o..</text>
+</g>
+<g class="func_g" onmouseover="s(this)" onmouseout="c()" onclick="zoom(this)">
+<title>oms`alloc::allocator::Layout::repeat::hb8a1c50da637e34b (2 samples, 0.10%)</title><rect x="574.2" y="165" width="1.2" height="15.0" fill="rgb(240,68,13)" rx="2" ry="2" />
+<text text-anchor="" x="577.22" y="175.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  ></text>
+</g>
+<g class="func_g" onmouseover="s(this)" onmouseout="c()" onclick="zoom(this)">
+<title>oms`oms::order_list::OrderList::insert::h5a535c853bbd96a2 (339 samples, 16.83%)</title><rect x="694.9" y="165" width="198.6" height="15.0" fill="rgb(246,154,2)" rx="2" ry="2" />
+<text text-anchor="" x="697.92" y="175.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  >oms`oms::order_list::Order..</text>
+</g>
+<g class="func_g" onmouseover="s(this)" onmouseout="c()" onclick="zoom(this)">
+<title>oms`_$LT$alloc..btree..map..VacantEntry$LT$$u27$a$C$$u20$K$C$$u20$V$GT$$GT$::insert::h5dd85bddda4d37e8 (4 samples, 0.20%)</title><rect x="408.4" y="165" width="2.4" height="15.0" fill="rgb(215,137,19)" rx="2" ry="2" />
+<text text-anchor="" x="411.41" y="175.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  ></text>
+</g>
+<g class="func_g" onmouseover="s(this)" onmouseout="c()" onclick="zoom(this)">
+<title>oms`je_tcache_alloc_small_hard (1 samples, 0.05%)</title><rect x="437.1" y="101" width="0.6" height="15.0" fill="rgb(247,31,30)" rx="2" ry="2" />
+<text text-anchor="" x="440.12" y="111.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  ></text>
+</g>
+<g class="func_g" onmouseover="s(this)" onmouseout="c()" onclick="zoom(this)">
+<title>libsystem_platform.dylib`_platform_memmove$VARIANT$Haswell (8 samples, 0.40%)</title><rect x="659.8" y="149" width="4.6" height="15.0" fill="rgb(251,188,25)" rx="2" ry="2" />
+<text text-anchor="" x="662.76" y="159.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  ></text>
+</g>
+<g class="func_g" onmouseover="s(this)" onmouseout="c()" onclick="zoom(this)">
+<title>oms`je_sdallocx (37 samples, 1.84%)</title><rect x="104.3" y="165" width="21.7" height="15.0" fill="rgb(242,81,34)" rx="2" ry="2" />
+<text text-anchor="" x="107.33" y="175.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  >o..</text>
+</g>
+<g class="func_g" onmouseover="s(this)" onmouseout="c()" onclick="zoom(this)">
+<title>oms`__rust_maybe_catch_panic (2,013 samples, 99.95%)</title><rect x="10.6" y="245" width="1179.4" height="15.0" fill="rgb(243,106,50)" rx="2" ry="2" />
+<text text-anchor="" x="13.59" y="255.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  >oms`__rust_maybe_catch_panic</text>
+</g>
+<g class="func_g" onmouseover="s(this)" onmouseout="c()" onclick="zoom(this)">
+<title>oms`csv::deserializer::deserialize_string_record::h7242f1b9e032d41e (4 samples, 0.20%)</title><rect x="99.1" y="165" width="2.3" height="15.0" fill="rgb(243,27,34)" rx="2" ry="2" />
+<text text-anchor="" x="102.06" y="175.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  ></text>
+</g>
+<g class="func_g" onmouseover="s(this)" onmouseout="c()" onclick="zoom(this)">
+<title>oms`je_arena_chunk_dalloc_huge (37 samples, 1.84%)</title><rect x="104.3" y="133" width="21.7" height="15.0" fill="rgb(243,22,30)" rx="2" ry="2" />
+<text text-anchor="" x="107.33" y="143.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  >o..</text>
+</g>
+<g class="func_g" onmouseover="s(this)" onmouseout="c()" onclick="zoom(this)">
+<title>oms`oms::order_book::OrderBook::event::h00deb3f03db6eb02 (1,256 samples, 62.36%)</title><rect x="159.4" y="181" width="735.9" height="15.0" fill="rgb(216,76,30)" rx="2" ry="2" />
+<text text-anchor="" x="162.40" y="191.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  >oms`oms::order_book::OrderBook::event::h00deb3f03db6eb02</text>
+</g>
+<g class="func_g" onmouseover="s(this)" onmouseout="c()" onclick="zoom(this)">
+<title>oms`__rde_alloc (22 samples, 1.09%)</title><rect x="674.4" y="133" width="12.9" height="15.0" fill="rgb(244,19,41)" rx="2" ry="2" />
+<text text-anchor="" x="677.41" y="143.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  ></text>
+</g>
+<g class="func_g" onmouseover="s(this)" onmouseout="c()" onclick="zoom(this)">
+<title>oms`je_arena_maybe_purge (40 samples, 1.99%)</title><rect x="136.0" y="133" width="23.4" height="15.0" fill="rgb(225,134,2)" rx="2" ry="2" />
+<text text-anchor="" x="138.97" y="143.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  >o..</text>
+</g>
+<g class="func_g" onmouseover="s(this)" onmouseout="c()" onclick="zoom(this)">
+<title>libsystem_platform.dylib`_platform_bzero$VARIANT$Haswell (114 samples, 5.66%)</title><rect x="1121.4" y="133" width="66.8" height="15.0" fill="rgb(223,102,28)" rx="2" ry="2" />
+<text text-anchor="" x="1124.45" y="143.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  >libsyst..</text>
+</g>
+<g class="func_g" onmouseover="s(this)" onmouseout="c()" onclick="zoom(this)">
+<title>oms`je_rallocx (4 samples, 0.20%)</title><rect x="435.4" y="133" width="2.3" height="15.0" fill="rgb(210,127,53)" rx="2" ry="2" />
+<text text-anchor="" x="438.36" y="143.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  ></text>
+</g>
+<g class="func_g" onmouseover="s(this)" onmouseout="c()" onclick="zoom(this)">
+<title>oms`core::hash::impls::_$LT$impl$u20$core..hash..Hash$u20$for$u20$u64$GT$::hash::hd03a0e92ae4302be (18 samples, 0.89%)</title><rect x="561.3" y="133" width="10.6" height="15.0" fill="rgb(240,16,39)" rx="2" ry="2" />
+<text text-anchor="" x="564.33" y="143.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  ></text>
+</g>
+<g class="func_g" onmouseover="s(this)" onmouseout="c()" onclick="zoom(this)">
+<title>oms`je_mallocx (1 samples, 0.05%)</title><rect x="692.0" y="133" width="0.6" height="15.0" fill="rgb(217,185,14)" rx="2" ry="2" />
+<text text-anchor="" x="694.99" y="143.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  ></text>
+</g>
+<g class="func_g" onmouseover="s(this)" onmouseout="c()" onclick="zoom(this)">
+<title>oms`je_rallocx (5 samples, 0.25%)</title><rect x="411.3" y="133" width="3.0" height="15.0" fill="rgb(220,10,12)" rx="2" ry="2" />
+<text text-anchor="" x="414.34" y="143.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  ></text>
+</g>
+<g class="func_g" onmouseover="s(this)" onmouseout="c()" onclick="zoom(this)">
+<title>oms`std::rt::lang_start::_$u7b$$u7b$closure$u7d$$u7d$::h2937ce38a878df02 (2,013 samples, 99.95%)</title><rect x="10.6" y="213" width="1179.4" height="15.0" fill="rgb(222,89,41)" rx="2" ry="2" />
+<text text-anchor="" x="13.59" y="223.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  >oms`std::rt::lang_start::_$u7b$$u7b$closure$u7d$$u7d$::h2937ce38a878df02</text>
+</g>
+<g class="func_g" onmouseover="s(this)" onmouseout="c()" onclick="zoom(this)">
+<title>libsystem_kernel.dylib`__mmap (5 samples, 0.25%)</title><rect x="156.5" y="85" width="2.9" height="15.0" fill="rgb(224,53,12)" rx="2" ry="2" />
+<text text-anchor="" x="159.47" y="95.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  ></text>
+</g>
+<g class="func_g" onmouseover="s(this)" onmouseout="c()" onclick="zoom(this)">
+<title>libsystem_platform.dylib`_platform_memmove$VARIANT$Haswell (1 samples, 0.05%)</title><rect x="97.9" y="117" width="0.6" height="15.0" fill="rgb(248,48,49)" rx="2" ry="2" />
+<text text-anchor="" x="100.88" y="127.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  ></text>
+</g>
+<g class="func_g" onmouseover="s(this)" onmouseout="c()" onclick="zoom(this)">
+<title>oms`_$LT$std..collections..hash..map..HashMap$LT$K$C$$u20$V$C$$u20$S$GT$$GT$::insert::haa20bf5bf7c3bcc3 (317 samples, 15.74%)</title><rect x="707.8" y="149" width="185.7" height="15.0" fill="rgb(215,185,2)" rx="2" ry="2" />
+<text text-anchor="" x="710.81" y="159.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  >oms`_$LT$std..collection..</text>
+</g>
+<g class="func_g" onmouseover="s(this)" onmouseout="c()" onclick="zoom(this)">
+<title>oms`je_pages_decommit (2 samples, 0.10%)</title><rect x="124.8" y="85" width="1.2" height="15.0" fill="rgb(243,199,33)" rx="2" ry="2" />
+<text text-anchor="" x="127.84" y="95.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  ></text>
+</g>
+<g class="func_g" onmouseover="s(this)" onmouseout="c()" onclick="zoom(this)">
+<title>oms`__rde_realloc (1 samples, 0.05%)</title><rect x="97.9" y="165" width="0.6" height="15.0" fill="rgb(238,203,0)" rx="2" ry="2" />
+<text text-anchor="" x="100.88" y="175.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  ></text>
+</g>
+<g class="func_g" onmouseover="s(this)" onmouseout="c()" onclick="zoom(this)">
+<title>oms`_$LT$std..collections..hash..map..HashMap$LT$K$C$$u20$V$C$$u20$S$GT$$GT$::remove::hc15d51697f2202a6 (227 samples, 11.27%)</title><rect x="438.9" y="165" width="133.0" height="15.0" fill="rgb(215,215,53)" rx="2" ry="2" />
+<text text-anchor="" x="441.88" y="175.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  >oms`_$LT$std..co..</text>
+</g>
+<g class="func_g" onmouseover="s(this)" onmouseout="c()" onclick="zoom(this)">
+<title>oms`std::rt::lang_start_internal::h314ef05d34a9433b (2,013 samples, 99.95%)</title><rect x="10.6" y="261" width="1179.4" height="15.0" fill="rgb(213,5,7)" rx="2" ry="2" />
+<text text-anchor="" x="13.59" y="271.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  >oms`std::rt::lang_start_internal::h314ef05d34a9433b</text>
+</g>
+<g class="func_g" onmouseover="s(this)" onmouseout="c()" onclick="zoom(this)">
+<title>oms`0x1 (2,014 samples, 100.00%)</title><rect x="10.0" y="309" width="1180.0" height="15.0" fill="rgb(234,79,11)" rx="2" ry="2" />
+<text text-anchor="" x="13.00" y="319.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  >oms`0x1</text>
+</g>
+<g class="func_g" onmouseover="s(this)" onmouseout="c()" onclick="zoom(this)">
+<title>libsystem_kernel.dylib`__munmap (35 samples, 1.74%)</title><rect x="136.0" y="69" width="20.5" height="15.0" fill="rgb(221,137,2)" rx="2" ry="2" />
+<text text-anchor="" x="138.97" y="79.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  ></text>
+</g>
+<g class="func_g" onmouseover="s(this)" onmouseout="c()" onclick="zoom(this)">
+<title>libsystem_platform.dylib`_platform_memmove$VARIANT$Haswell (9 samples, 0.45%)</title><rect x="366.2" y="165" width="5.3" height="15.0" fill="rgb(241,148,35)" rx="2" ry="2" />
+<text text-anchor="" x="369.23" y="175.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  ></text>
+</g>
+<g class="func_g" onmouseover="s(this)" onmouseout="c()" onclick="zoom(this)">
+<title>libsystem_kernel.dylib`__mmap (1 samples, 0.05%)</title><rect x="437.1" y="37" width="0.6" height="15.0" fill="rgb(241,159,1)" rx="2" ry="2" />
+<text text-anchor="" x="440.12" y="47.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  ></text>
+</g>
+<g class="func_g" onmouseover="s(this)" onmouseout="c()" onclick="zoom(this)">
+<title>oms`serde::de::SeqAccess::next_element::ha453e7050c43b932 (2 samples, 0.10%)</title><rect x="100.2" y="149" width="1.2" height="15.0" fill="rgb(235,9,9)" rx="2" ry="2" />
+<text text-anchor="" x="103.23" y="159.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  ></text>
+</g>
+<g class="func_g" onmouseover="s(this)" onmouseout="c()" onclick="zoom(this)">
+<title>oms`isfree (10 samples, 0.50%)</title><rect x="130.1" y="165" width="5.9" height="15.0" fill="rgb(225,197,36)" rx="2" ry="2" />
+<text text-anchor="" x="133.11" y="175.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  ></text>
+</g>
+<g class="func_g" onmouseover="s(this)" onmouseout="c()" onclick="zoom(this)">
+<title>oms`DYLD-STUB$$memcpy (1 samples, 0.05%)</title><rect x="35.2" y="181" width="0.6" height="15.0" fill="rgb(219,158,26)" rx="2" ry="2" />
+<text text-anchor="" x="38.19" y="191.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  ></text>
+</g>
+<g class="func_g" onmouseover="s(this)" onmouseout="c()" onclick="zoom(this)">
+<title>libsystem_platform.dylib`_platform_memmove$VARIANT$Haswell (2 samples, 0.10%)</title><rect x="413.1" y="101" width="1.2" height="15.0" fill="rgb(229,22,17)" rx="2" ry="2" />
+<text text-anchor="" x="416.10" y="111.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  ></text>
+</g>
+<g class="func_g" onmouseover="s(this)" onmouseout="c()" onclick="zoom(this)">
+<title>oms`je_chunk_dalloc_wrapper (34 samples, 1.69%)</title><rect x="104.9" y="85" width="19.9" height="15.0" fill="rgb(223,146,8)" rx="2" ry="2" />
+<text text-anchor="" x="107.92" y="95.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  ></text>
+</g>
+<g class="func_g" onmouseover="s(this)" onmouseout="c()" onclick="zoom(this)">
+<title>oms`je_pages_commit (1 samples, 0.05%)</title><rect x="437.1" y="53" width="0.6" height="15.0" fill="rgb(205,17,37)" rx="2" ry="2" />
+<text text-anchor="" x="440.12" y="63.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  ></text>
+</g>
+<g class="func_g" onmouseover="s(this)" onmouseout="c()" onclick="zoom(this)">
+<title>all (2,014 samples, 100%)</title><rect x="10.0" y="325" width="1180.0" height="15.0" fill="rgb(245,198,13)" rx="2" ry="2" />
+<text text-anchor="" x="13.00" y="335.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  ></text>
+</g>
+<g class="func_g" onmouseover="s(this)" onmouseout="c()" onclick="zoom(this)">
+<title>oms`arena_purge_to_limit (40 samples, 1.99%)</title><rect x="136.0" y="117" width="23.4" height="15.0" fill="rgb(206,205,10)" rx="2" ry="2" />
+<text text-anchor="" x="138.97" y="127.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  >o..</text>
+</g>
+<g class="func_g" onmouseover="s(this)" onmouseout="c()" onclick="zoom(this)">
+<title>oms`je_arena_maybe_purge (37 samples, 1.84%)</title><rect x="104.3" y="117" width="21.7" height="15.0" fill="rgb(225,151,15)" rx="2" ry="2" />
+<text text-anchor="" x="107.33" y="127.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  >o..</text>
+</g>
+<g class="func_g" onmouseover="s(this)" onmouseout="c()" onclick="zoom(this)">
+<title>oms`je_rallocx (8 samples, 0.40%)</title><rect x="687.3" y="117" width="4.7" height="15.0" fill="rgb(235,187,17)" rx="2" ry="2" />
+<text text-anchor="" x="690.30" y="127.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  ></text>
+</g>
+<g class="func_g" onmouseover="s(this)" onmouseout="c()" onclick="zoom(this)">
+<title>oms`__rde_dealloc (2 samples, 0.10%)</title><rect x="10.6" y="197" width="1.2" height="15.0" fill="rgb(253,143,52)" rx="2" ry="2" />
+<text text-anchor="" x="13.59" y="207.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  ></text>
+</g>
+<g class="func_g" onmouseover="s(this)" onmouseout="c()" onclick="zoom(this)">
+<title>oms`_$LT$std..collections..hash..map..HashMap$LT$K$C$$u20$V$C$$u20$S$GT$$GT$::insert::haa20bf5bf7c3bcc3 (2 samples, 0.10%)</title><rect x="437.7" y="165" width="1.2" height="15.0" fill="rgb(229,59,19)" rx="2" ry="2" />
+<text text-anchor="" x="440.71" y="175.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  ></text>
+</g>
+<g class="func_g" onmouseover="s(this)" onmouseout="c()" onclick="zoom(this)">
+<title>libsystem_kernel.dylib`__exit (1 samples, 0.05%)</title><rect x="10.0" y="277" width="0.6" height="15.0" fill="rgb(243,165,9)" rx="2" ry="2" />
+<text text-anchor="" x="13.00" y="287.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  ></text>
+</g>
+<g class="func_g" onmouseover="s(this)" onmouseout="c()" onclick="zoom(this)">
+<title>oms`je_pages_decommit (5 samples, 0.25%)</title><rect x="156.5" y="101" width="2.9" height="15.0" fill="rgb(223,156,49)" rx="2" ry="2" />
+<text text-anchor="" x="159.47" y="111.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  ></text>
 </g>
 </svg>
