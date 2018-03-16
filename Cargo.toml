@@ -1,0 +1,19 @@
+[package]
+name = "oms"
+version = "0.1.0"
+authors = ["Murali Mohan Rath <murali@mmrath.com>"]
+
+[dependencies]
+log = "0.4"
+lazy_static = "*"
+failure = "^0.1.1"
+chrono = { version = "*", features = ["serde"] }
+csv = "1.0.0-beta.5"
+serde="1"
+serde_derive="1"
+
+[dev-dependencies]
+env_logger = "0.5"
+
+[profile.release]
+debug = true
